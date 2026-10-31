@@ -13,6 +13,11 @@ jobs:
     steps:
       - name: Checkout SKYNET
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            lib
+            functions
+          sparse-checkout-cone-mode: true
 
       - name: Set up Java
         uses: actions/setup-java@v4
