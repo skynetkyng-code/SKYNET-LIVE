@@ -11,4 +11,4 @@ async function grantOwner(uid: string) {
 }
 
 // Replace with the UID from Firebase Authentication console.
-
+grantOwner("REPLACE_WITH_YOUR_FIREBASE_AUTH_UID");
