@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "546108043066",
+    "project_id": "skynet-live-8bbb8",
+    "storage_bucket": "skynet-live-8bbb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546108043066:android:9b1b6a3ea44981b316ea03",
+        "android_client_info": {
+          "package_name": "com.skynet.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546108043066-hrj3rqjvfggib197um0vvroe7mhu7rv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-cmjRCu3vpIPnzeSqnczPGgZGmi7v3BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546108043066-hrj3rqjvfggib197um0vvroe7mhu7rv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546108043066:android:b43a8bcb611f323b16ea03",
+        "android_client_info": {
+          "package_name": "com.skynet.skynet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546108043066-hrj3rqjvfggib197um0vvroe7mhu7rv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-cmjRCu3vpIPnzeSqnczPGgZGmi7v3BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546108043066-hrj3rqjvfggib197um0vvroe7mhu7rv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
